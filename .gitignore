@@ -1,0 +1,15 @@
+# Binaries
+parser
+
+# Generated CSV output
+*.csv
+
+# Chrome profiles
+lenta-chrome-*
+
+# OS
+.DS_Store
+*~
+
+# Env
+.env
